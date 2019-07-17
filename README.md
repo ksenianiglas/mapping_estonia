@@ -1,2 +1,2 @@
 # mapping_estonia
-Creating various maps of Estonia using Python
+Source code for various maps of Estonia I created using Python. For example:

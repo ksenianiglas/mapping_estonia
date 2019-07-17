@@ -20,5 +20,5 @@ m.fillcontinents(color='#1c1c1c',lake_color='#1c1c1c');
 #and placed the files in a subfolder "geo"
 m.readshapefile('geo/gis_osm_roads_free_1', 'roads', drawbounds = True,
                 color='#b8b8b8')
-plt.show()
+
 plt.savefig('estonian_roads')

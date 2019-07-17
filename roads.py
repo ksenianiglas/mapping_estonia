@@ -4,7 +4,7 @@ from mpl_toolkits.basemap import Basemap
 
 fig = plt.figure(figsize=(20,20))
 
-#initiate a baemap layer
+#initiate a basemap layer
 m = Basemap(
     resolution = 'l',
     projection = 'merc',
